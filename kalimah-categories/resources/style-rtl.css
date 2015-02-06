@@ -1,0 +1,30 @@
+#kalimah-categories-content, #kalimah-categories-sidepanel
+{
+	float: right;
+}
+#kalimah-categories-content
+{
+	border-left: 1px solid black;
+	border-right: 0px;
+}
+
+.categories_all_list .parent-cat
+{
+	float: right;
+}
+
+.navigation .nav-bit
+{
+	float: right;
+	padding: 10px 20px 0 10px;
+}
+
+.navigation [class^="icon-"]:before, .navigation [class*=" icon-"]:before
+{
+	right: 0;
+}
+
+#kalimah-categories-header .back
+{
+	float: right;
+}

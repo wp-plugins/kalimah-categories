@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KalimahCategories\n"
+"POT-Creation-Date: 2015-01-26 12:26+1000\n"
+"PO-Revision-Date: 2015-01-26 13:01+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\akhbari\\wp-content\\plugins\\\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: kalimah-categories\n"
+
+#: improved-categories/improved-categories.php:72
+msgid "Manage Categories"
+msgstr "التحكم بالتصنيفات"
+
+#: improved-categories/improved-categories.php:86
+msgid "Search a category in "
+msgstr "بحث عن تصنيف في "
+
+#: improved-categories/improved-categories.php:86
+msgid "Edit Category"
+msgstr "تحرير تصنيف"
+
+#: improved-categories/improved-categories.php:103
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: improved-categories/improved-categories.php:109
+msgid "Main Page"
+msgstr "الصفحة الرئيسية"
+
+#: improved-categories/improved-categories.php:114
+msgid "Search a category in the Main Page"
+msgstr "ابحث عن تصنيف في الصفحة الرئيسية"
+
+#: improved-categories/improved-categories.php:152
+msgid "Category could not be deleted"
+msgstr "لم يتم حذف التصنيف"
+
+#: improved-categories/improved-categories.php:160
+msgid "None"
+msgstr "بدون"
+
+#: improved-categories/improved-categories.php:177
+msgid "Add Category"
+msgstr "إضافة تصنيف"
+
+#: improved-categories/improved-categories.php:184
+msgid "Name"
+msgstr "الإسم"
+
+#: improved-categories/improved-categories.php:190
+msgid "Slug"
+msgstr "الإسم اللطيف"
+
+#: improved-categories/improved-categories.php:196
+msgid "Parent"
+msgstr "الأب"
+
+#: improved-categories/improved-categories.php:202
+msgid "Description"
+msgstr "الوصف"
+
+#: improved-categories/improved-categories.php:208
+msgid "Add New Category"
+msgstr "إضافة تصنيف جديد"
+
+#: improved-categories/improved-categories.php:247
+msgid "Category has been added"
+msgstr "تم إضافة تصنيف"
+
+#: improved-categories/improved-categories.php:261
+msgid "Category has been edited"
+msgstr "تم تحرير التصنيف"
+
+#: improved-categories/list_walker.php:36
+msgid "Do you want to delete category?"
+msgstr "هل تريد حذف التصنيف؟"
+
+#: improved-categories/list_walker.php:37
+msgid "Yes"
+msgstr "نعم"
+
+#: improved-categories/list_walker.php:37
+msgid "No"
+msgstr "لا"
